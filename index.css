@@ -1,0 +1,31 @@
+form {
+    border: 5px solid rgb(141, 67, 80);
+    text-align: center;
+    background-color: rgb(236, 148, 163);
+    margin: 120px 520px;
+    padding: 20px;
+    text-align: left;
+    font-family: font-family: 'Source Sans Pro', sans-serif;;
+}
+
+button{
+    background-color: rgb(202, 180, 180);
+    color: rgb(49, 45, 45);
+    cursor: pointer;
+    border-radius: 4px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h1{
+    font-weight: 200;
+    color: rgb(12, 11, 12);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+}
+html {
+    background-color: rgba(233, 196, 217, 0.774);
+}
+input{
+    text-align: center;
+}
+    
